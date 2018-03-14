@@ -33,16 +33,12 @@
 		const char * memberName = ivar_getName(ivar);
 		// 打印出属性的名字
 		NSLog(@"%s",memberName);
-		
 		Ivar name = members[0];
-		
 		// 修改属性的值
 		object_setIvar(p, name, @"AlexanderYeah");
 	}
 	
 	NSLog(@"%@",[p valueForKey:@"name"]);
-	
-	
 	
 	
 }
