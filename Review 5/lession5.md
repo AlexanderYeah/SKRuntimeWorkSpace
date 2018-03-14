@@ -103,5 +103,5 @@ forwardInvocation: 方法就是一个不能识别消息的分发中心，将这�
 
 
 ```
-
+![11](https://github.com/AlexanderYeah/SKRuntimeWorkSpace/blob/master/Review%205/lession5.png)
 
